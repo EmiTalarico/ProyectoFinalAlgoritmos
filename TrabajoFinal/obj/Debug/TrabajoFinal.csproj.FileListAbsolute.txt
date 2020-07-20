@@ -1,0 +1,13 @@
+C:\Users\emili\source\repos\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.exe.config
+C:\Users\emili\source\repos\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.exe
+C:\Users\emili\source\repos\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.pdb
+C:\Users\emili\source\repos\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csprojResolveAssemblyReference.cache
+C:\Users\emili\source\repos\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.exe
+C:\Users\emili\source\repos\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.pdb
+C:\Users\Emilio\Documents\Visual Studio 2017\Projects\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.exe.config
+C:\Users\Emilio\Documents\Visual Studio 2017\Projects\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.exe
+C:\Users\Emilio\Documents\Visual Studio 2017\Projects\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.pdb
+C:\Users\Emilio\Documents\Visual Studio 2017\Projects\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.exe
+C:\Users\Emilio\Documents\Visual Studio 2017\Projects\TrabajoFinal\TrabajoFinal\bin\Debug\TrabajoFinal.pdb
+C:\Users\Emilio\Documents\Visual Studio 2017\Projects\TrabajoFinal\TrabajoFinal\obj\Debug\TrabajoFinal.csprojResolveAssemblyReference.cache
